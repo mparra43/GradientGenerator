@@ -1,0 +1,13 @@
+.buttonLong {
+    width: 256px;
+    height: 48px;
+    background-color: #f1f4f8;;
+    margin-bottom: 15px;
+    border-color: transparent;
+    border-radius: 6px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    font-size: .8125rem;
+    padding: 14px 0;
+}

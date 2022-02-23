@@ -1,0 +1,22 @@
+.buttonOne{
+    position: relative;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: white;
+    padding: 1px 5px;
+   
+}
+.buttonOne:hover{
+    border-radius: gray;
+}
+
+.buttonTwo{
+    position: relative;
+    cursor: pointer;
+    border-radius: 4px;
+    border-color: white;
+
+}
+.buttonTwo:hover{
+    border-color: gray;
+}

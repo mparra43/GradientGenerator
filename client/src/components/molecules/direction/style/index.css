@@ -1,0 +1,11 @@
+.columns {
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    gap: 5px;
+    padding: 0 0 5px 0;
+    padding:0 0 5px 0;
+}
+
+.direction {
+    padding:0 0 15px 0;
+}

@@ -1,0 +1,51 @@
+.main {
+    width: 86%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1,#main,  img, a{
+    color: black;  
+}
+a{
+    text-decoration: none;
+    width: 68%;
+    color: #3d4853;
+   
+}
+h1#main img, a {
+    color: #3d4853;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+img {
+    background-color: transparent;
+}
+img, a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    color: #3d4853;
+}
+
+h1#main {
+    display: inline-block;
+    position: relative;
+    display: inline-block;
+    width: 140px;
+    margin-bottom: 14px;
+    line-height: 1.75rem;
+    font-weight: 600;
+}
+
+h1 {
+ 
+    font-size: 20px;
+    margin: 0.67em 0;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
