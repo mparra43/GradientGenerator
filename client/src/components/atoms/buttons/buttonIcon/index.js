@@ -24,10 +24,10 @@ export const ButtonIcon = (props) => {
                 borderRadius: '4px',
                 backgroundColor: 'white',
                 padding: '2px 20px',
-                borderColor: typeGradient==='Linear'&& props.icon === Circle?'transparent': 'black'
+                borderColor: typeGradient==='linear'&& props.icon === Circle?'transparent': 'black'
             }}
             onClick={() => handleClick(props.style)}>
-            {typeGradient==='Linear'&& props.icon === Circle?'':<img className='icon' alt='icon' src={props.icon} />}
+            {typeGradient==='linear'&& props.icon === Circle?'':<img className='icon' alt='icon' src={props.icon} />}
         </button >
 
     );
