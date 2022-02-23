@@ -3,7 +3,7 @@
 
 ## Instrucciones 
 
-Para ejecutar el proyecto es necesario crear un la raíz de la carpeta api un archivo .env con las siguientes variables de entorno: PORT 	que hace referencia al puerto en el que corre el servidor,  y MOGODB_CNN  que es  la cadena de conexión a la base de datos de mongo que de lucir de estas manera  =mongodb+srv://<Usuario>:<Clave>@cluster0.zaa4p.mongodb.net/template
+Para ejecutar el proyecto es necesario crear un la raíz de la carpeta api un archivo .env con las siguientes variables de entorno: PORT 	que hace referencia al puerto en el que corre el servidor,  y MOGODB_CNN  que es  la cadena de conexión a la base de datos de mongo que de lucir de estas manera  =mongodb+srv://<Usuario>:<<Clave>>@ejemplo.zaa4p.mongodb.net/template
 ### `node app.js`
 
 Ejecuta la aplicación en modo de desarrollo.<br />
@@ -17,7 +17,7 @@ Abra http: // localhost: 3000 para verlo en el navegador.
   
   ## Instructions
 
-To run the project it is necessary to create an .env file in the root of the api folder with the following environment variables: PORT which refers to the port on which the server runs, and MOGODB_CNN which is the connection string to the database mongo data should look like this =mongodb+srv://<User>:<Password>@cluster0.zaa4p.mongodb.net/template
+To run the project it is necessary to create an .env file in the root of the api folder with the following environment variables: PORT which refers to the port on which the server runs, and MOGODB_CNN which is the connection string to the database mongo data should look like this =mongodb+srv://<User>:<<Password>>@ejemplo.zaa4p.mongodb.net/template
 ### `node.js app`
 
 Run the application in development mode.<br />
